@@ -366,8 +366,8 @@ display: none;
 }
 
 .phone__button{
-    
-    padding: 4.7% 21.5% 4.7% 21.5%;
+    max-width: 44.5%;
+    padding: 4.7% 0 4.7% 0;
 }
 
 
